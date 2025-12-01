@@ -1,7 +1,6 @@
 [
     {
         "device_id": "c3693f6",
-        "username": "user1",
         "password": "pass123",
         "expirydate": "31-12-2026",
         "Allowoffline": true
